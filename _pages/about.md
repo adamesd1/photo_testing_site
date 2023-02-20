@@ -1,9 +1,9 @@
 ---
 title: About
-featured_image: /images/demo/about.jpg
+featured_image: /images/about.JPG
 ---
 
-![](/images/demo/about.jpg)
+![](/images/about.JPG)
 
 I have always been passionate about photography, which I consider to be a powerful art form that allows us to capture the beauty and complexity of the world around us. I have been pursuing this passion as a hobby for several years now, exploring different styles, techniques, and subjects.
 
