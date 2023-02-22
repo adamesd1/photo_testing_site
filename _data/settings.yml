@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: I take pictures of things that other people walk past while looking at their phones.
+  footer_tagline: 'I take pictures of things that other people walk past while looking at their phones.'
 
 grid_settings:
   overlay_opacity: 0.8
