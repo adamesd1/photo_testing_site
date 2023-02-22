@@ -1,7 +1,7 @@
 ---
 title: 'A glimpse through the window'
 subtitle: 'Caught a glimpse of this stunning building on my walk today, and couldn't resist capturing the moment. There's something intriguing about the woman in the window - wonder what her story is?'
-#date: 2023-02-30 00:00:00
+date: 2023-02-30 00:00:00
 description: Caught a glimpse of this stunning building on my walk today, and couldn't resist capturing the moment. There's something intriguing about the woman in the window - wonder what her story is?
 featured_image: '/images/fulls/Street_Photography-01.jpg'
 ---
