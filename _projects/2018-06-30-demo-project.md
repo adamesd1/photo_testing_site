@@ -1,9 +1,9 @@
 ---
-title: 'A glimpse through the window'
-subtitle: 'Caught a glimpse of this stunning building on my walk today, and couldn't resist capturing the moment. There's something intriguing about the woman in the window - wonder what her story is?'
-date: 2023-02-30 00:00:00
-description: Caught a glimpse of this stunning building on my walk today, and couldn't resist capturing the moment. There's something intriguing about the woman in the window - wonder what her story is?
-featured_image: '/images/fulls/Street_Photography-01.jpg'
+title: 'Demo Project'
+subtitle: 'This is a demo'
+date: 2018-06-30 00:00:00
+description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
+featured_image: '/images/fulls/Street_Photography-02.jpg'
 ---
 
 ![](/images/fulls/Street_Photography-01.jpg)
