@@ -7,6 +7,7 @@ featured_image: '/images/fulls/Street_Photography-01.jpg'
 ---
 
 ![](/images/fulls/Street_Photography-01.jpg)
+![]({{ page.featured_image }})
 
 ## Demo content
 
